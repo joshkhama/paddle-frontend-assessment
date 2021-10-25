@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/paddle-frontend-assessment/static/css/main.369e3fdb.chunk.css",
+    "main.js": "/paddle-frontend-assessment/static/js/main.450e487e.chunk.js",
+    "main.js.map": "/paddle-frontend-assessment/static/js/main.450e487e.chunk.js.map",
+    "runtime-main.js": "/paddle-frontend-assessment/static/js/runtime-main.a50b84f7.js",
+    "runtime-main.js.map": "/paddle-frontend-assessment/static/js/runtime-main.a50b84f7.js.map",
+    "static/js/2.c121708a.chunk.js": "/paddle-frontend-assessment/static/js/2.c121708a.chunk.js",
+    "static/js/2.c121708a.chunk.js.map": "/paddle-frontend-assessment/static/js/2.c121708a.chunk.js.map",
+    "index.html": "/paddle-frontend-assessment/index.html",
+    "static/css/main.369e3fdb.chunk.css.map": "/paddle-frontend-assessment/static/css/main.369e3fdb.chunk.css.map",
+    "static/js/2.c121708a.chunk.js.LICENSE.txt": "/paddle-frontend-assessment/static/js/2.c121708a.chunk.js.LICENSE.txt",
+    "static/media/hero.e7413cff.png": "/paddle-frontend-assessment/static/media/hero.e7413cff.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a50b84f7.js",
+    "static/js/2.c121708a.chunk.js",
+    "static/css/main.369e3fdb.chunk.css",
+    "static/js/main.450e487e.chunk.js"
+  ]
+}
